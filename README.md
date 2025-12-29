@@ -10,8 +10,9 @@ urllib
 webbrowser
 pyautogui
 
-Para utilizar o sistema, é nescessário uma planilha com as informações dos clientes (nome e número de telefone).
+Para utilizar o sistema, é nescessário uma planilha com as informações dos clientes (nome, número de telefone e vencimento).
 Vale ressaltar que o número deve seguir o seguinte padrão:
 (codigo do pais, DDD, 9, Número de telefone), Ex: 5543912345678
+A data de vencimento deve estar no modelo DD/MM/YYYY
 Caso contrário, o sistema não será capaz de ler e identificar o cliente.
 
