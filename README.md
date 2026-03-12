@@ -4,11 +4,12 @@ Este projeto consiste em uma automação desenvolvida em Python para envio de me
 O sistema foi desenvolvido com o objetivo de automatizar tarefas repetitivas, aplicando conceitos de lógica de programação, manipulação de dados e automação de processos. A solução pode ser facilmente adaptada para diferentes contextos de comunicação empresarial.
 
 Tecnologias Utilizadas:
-Python,
-openpyxl,
-urllib,
-webbrowser,
-pyautogui.
+
+ -Python
+ -openpyxl
+ -urllib
+ -webbrowser
+ -pyautogui
 
 Para utilizar o sistema, é nescessário uma planilha com as informações dos clientes (nome, número de telefone e vencimento), nomeada como "numeros.xlsx.
 Vale ressaltar que o número deve seguir o seguinte padrão:
@@ -16,5 +17,5 @@ Vale ressaltar que o número deve seguir o seguinte padrão:
 A data de vencimento deve estar no modelo DD/MM/YYYY.
 Caso contrário, o sistema não será capaz de ler e identificar o cliente.
 
-O sistema irá gerar os erros em um documento "erros.csv"
+O sistema irá gerar os erros em um documento "erros.csv".
 
