@@ -1,5 +1,6 @@
-# automacao-de-mensagens
-Este projeto consiste em uma automação desenvolvida em Python para envio de mensagens a clientes, utilizando dados extraídos de uma planilha. A aplicação acessa uma base de dados contendo informações como nome, número de telefone e data de vencimento, e realiza o envio automatizado de mensagens personalizadas, com foco em lembretes de pagamento.
+### Automação de mensagens
+
+##Este projeto consiste em uma automação desenvolvida em Python para envio de mensagens a clientes, utilizando dados extraídos de uma planilha. A aplicação acessa uma base de dados contendo informações como nome, número de telefone e data de vencimento, e realiza o envio automatizado de mensagens personalizadas, com foco em lembretes de pagamento.
 
 O sistema foi desenvolvido com o objetivo de automatizar tarefas repetitivas, aplicando conceitos de lógica de programação, manipulação de dados e automação de processos. A solução pode ser facilmente adaptada para diferentes contextos de comunicação empresarial.
 
